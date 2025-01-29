@@ -14,11 +14,7 @@ I love working on innovative projects! If you have ideas in **web development**,
 ### 📫 Let's Connect!  
 Feel free to reach out for collaborations, discussions, or just to say hi:  
 - 📧 Email: rugvedku253@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/rugved-kumbhar-304006208)  
-
-
-### 😄 Pronouns  
-He/Him  
+  
 
 ### ⚡ Fun Fact  
 I’m not just a coder—I’m also a dreamer who believes in the power of technology to transform lives. Oh, and I make a mean cup of coffee when debugging late-night code! ☕  
