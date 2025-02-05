@@ -14,9 +14,4 @@ I love working on innovative projects! If you have ideas in **web development**,
 ### 📫 Let's Connect!  
 Feel free to reach out for collaborations, discussions, or just to say hi:  
 - 📧 Email: rugvedku253@gmail.com  
-  
-
-### ⚡ Fun Fact  
-I’m not just a coder—I’m also a dreamer who believes in the power of technology to transform lives. Oh, and I make a mean cup of coffee when debugging late-night code! ☕  
-
-Thanks for stopping by! Let's create, innovate, and grow together. 🌟  
+   
