@@ -13,7 +13,7 @@
 
 - 👨‍💻 **Rugved Kumbhar** — AI/ML Intern @ **Emerson**
 - 🔭 Currently building **agentic AI systems** with LangGraph
-- 🌱 Deep diving into **Advanced RAG**, **LLMOps**, and **cloud deployment (AWS/Azure)**
+- 🌱 Deep diving into **Advanced RAG**, **LangChain**, **LangGraph**, **LLMOps**, and **cloud deployment (AWS/Azure)**
 - 🎓 Final Year **CS student @ DKTE Society's Textile and Engineering Institute**
 - 🚀 Final Year Project: **AgroAssist** — AI-powered smart crop health monitoring system
 - 📄 Patent: **RoomBuddy** — PG Room Booking System
@@ -48,8 +48,6 @@
 <a href="#"><img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></a>&nbsp;
 <a href="#"><img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/></a>&nbsp;
 <a href="#"><img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/></a>&nbsp;
-<a href="#"><img width="36px" src="https://www.gstatic.com/images/branding/product/1x/datastudio_512dp.png" title="Google Looker Studio"/></a>&nbsp;
-<a href="#"><img width="36px" src="https://ssl.gstatic.com/notebooklm/notebooklm-logo.png" title="Google NotebookLM"/></a>
 
 ---
 
@@ -67,7 +65,7 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub  and Leetcode Stats
 
 <table>
   <tr>
