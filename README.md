@@ -30,8 +30,8 @@
 <a href="#"><img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></a>&nbsp;
 <a href="#"><img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/></a>&nbsp;
 <a href="#"><img width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/></a>&nbsp;
-<a href="#"><img width="36px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="36px" title="LangChain"/></a>&nbsp;
-<a href="#"><img width="36px" src="https://avatars.githubusercontent.com/u/139558948?s=200&v=4" width="36px" title="LangGraph"/></a>
+<a href="#"><img width="36px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" title="LangChain"/></a>&nbsp;
+<a href="#"><img width="36px" src="https://avatars.githubusercontent.com/u/139558948?s=200&v=4" title="LangGraph"/></a>
 
 **Backend, Frontend & Cloud**
 
@@ -69,13 +69,10 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ### 📊 GitHub Stats
 
-<p align="center">
+![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true)
+![Rugved's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedk31&theme=tokyonight)
 
-| ![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true) | ![Rugved's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedk31&theme=tokyonight) |
-|---|---|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=rugvedk31&show_icons=true&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=tokyonight) |
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight)
 
 ---
 
@@ -85,13 +82,19 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ---
 
+### 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap)
+
+---
+
 ### 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img width="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <img width="32px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/rugvedk31">
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
@@ -101,14 +104,7 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
-</p>
-
-<br>
-
 <p align="center"><i>Open to Python Backend and AI/ML engineering roles — product startups, MNCs, and remote opportunities.</i></p>
-
 <hr>
 
 <p>Credits: <a href="https://github.com/rugvedk31">Rugved Kumbhar</a> &nbsp;|&nbsp; Last updated: May 2026</p>
