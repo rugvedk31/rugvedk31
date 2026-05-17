@@ -69,10 +69,11 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ### 📊 GitHub Stats
 
-![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true)
+![Rugved's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
+ 
 ![Rugved's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedk31&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight)
+ 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
 
@@ -84,16 +85,16 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ### 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RugvedVK?theme=dark&font=Nunito&ext=heatmap)
 
 ---
 
 ### 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/rugvedkumbhar31">
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>&nbsp;&nbsp;
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/RugvedVK">
   <img width="32px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/rugvedk31">
