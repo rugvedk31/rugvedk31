@@ -69,23 +69,30 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 
 ### 📊 GitHub Stats
 
-![Rugved's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
- 
-![Rugved's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rugvedk31&theme=tokyonight)
- 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight&hide_border=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Rugved's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/RugvedVK?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedk31&theme=tokyonight" alt="Rugved's Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 Activity Graph
 
 [![Rugved's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rugvedk31&theme=tokyo-night)](https://github.com/rugvedk31)
-
----
-
-### 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/RugvedVK?theme=dark&font=Nunito&ext=heatmap)
 
 ---
 
@@ -106,6 +113,7 @@ Built a full-stack AI system that detects crop diseases from images using DenseN
 ---
 
 <p align="center"><i>Open to Python Backend and AI/ML engineering roles — product startups, MNCs, and remote opportunities.</i></p>
+
 <hr>
 
 <p>Credits: <a href="https://github.com/rugvedk31">Rugved Kumbhar</a> &nbsp;|&nbsp; Last updated: May 2026</p>
