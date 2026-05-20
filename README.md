@@ -15,6 +15,7 @@
 - 🔭 Currently building **agentic AI systems** with LangGraph
 - 🌱 Deep diving into **Advanced RAG**, **LangChain**, **LangGraph**, **LLMOps**, and **cloud deployment (AWS/Azure)**
 - 🎓 Final Year **CS student @ DKTE Society's Textile and Engineering Institute**
+- 💻 Solved **400+** Leetcode Questions
 - 🚀 Final Year Project: **AgroAssist** — AI-powered smart crop health monitoring system
 - 📄 Patent: **RoomBuddy** — PG Room Booking System
 - 💬 Ask me about **Python · FastAPI · LangGraph · LangChain · RAG · Agentic Systems**
