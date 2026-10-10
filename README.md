@@ -104,18 +104,18 @@ class Rugved:
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b26" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rugvedk31&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b26" alt="GitHub Stats"/></td>
     <td><img src="https://leetcard.jacoblin.cool/RugvedVK?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/></td>
   </tr>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedk31&theme=tokyonight&hide_border=true&background=1a1b26" alt="Streak"/></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedk31&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages"/></td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/rugvedk31">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rugvedk31&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugvedk31&theme=tokyonight" width="100%" alt="Activity Graph"/>
   </a>
 </p>
 
