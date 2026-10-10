@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/rugvedk31">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=%3E+initializing+agent%3A+rugved.exe+...;AI%2FML+Intern+%40+Emerson+%F0%9F%94%A5;Building+agentic+systems+with+LangGraph+%F0%9F%A7%A0;Advanced+RAG+%7C+LangChain+%7C+LLMOps+%E2%9A%99%EF%B8%8F;400%2B+LeetCode+problems+crushed+%F0%9F%92%BB;The+best+AI+is+the+one+that+ships+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=%3E+initializing+agent%3A+rugved.exe+...;AI%2FML+Intern+%40+Emerson;Building+agentic+systems+with+LangGraph;Advanced+RAG+%7C+LangChain+%7C+LLMOps;400%2B+LeetCode+problems+crushed;The+best+AI+is+the+one+that+ships" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -26,39 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🧬 `class RugvedKumbhar(Agent):`
-
-<img align="right" width="34%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="coding"/>
-
-```python
-from dataclasses import dataclass
-
-@dataclass(frozen=True)
-class Rugved:
-    role: str     = "AI/ML Intern @ Emerson"
-    college: str  = ("DKTE Society's Textile"
-                     " & Engineering Institute")
-    year: str     = "Final-year CS 🎓"
-    city: str     = "Pune, India 📍"
-    builds: tuple = ("Agentic AI", "LangGraph")
-    learns: tuple = ("Advanced RAG", "LLMOps",
-                     "AWS", "Azure")
-    leetcode: str = "400+ solved 💻"
-    patent: str   = "RoomBuddy 🏠"
-
-    def motto(self) -> str:
-        return "Ship AI to production 🚀"
-```
-
-<br clear="right"/>
-
-<p align="center">
-  <img src="./assets/achievements.svg" width="100%" alt="achievements unlocked"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-## ⚡ Arsenal
+## Tech Stack
 
 <p align="center">
   <img src="./assets/skills-network.svg" width="100%" alt="neural skill network"/>
@@ -66,7 +34,7 @@ class Rugved:
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><b>🤖 AI / ML</b></td>
+    <td align="center" width="140"><b>AI / ML</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow&theme=dark" height="44"/>
       <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="44" title="LangChain" style="border-radius:10px"/>
@@ -74,15 +42,15 @@ class Rugved:
     </td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Backend & Frontend</b></td>
+    <td align="center"><b>Backend &amp; Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi,react,mongodb&theme=dark" height="44"/></td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td align="center"><b>Cloud &amp; DevOps</b></td>
     <td><img src="https://skillicons.dev/icons?i=aws,azure,docker&theme=dark" height="44"/></td>
   </tr>
   <tr>
-    <td align="center"><b>🧰 Dev Tools</b></td>
+    <td align="center"><b>Dev Tools</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,vscode,figma&theme=dark" height="44"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" title="Jupyter"/>
@@ -92,7 +60,7 @@ class Rugved:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 💭 Thought of the Day
+## Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
@@ -100,7 +68,7 @@ class Rugved:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 📊 Telemetry
+## <img src="https://cdn.simpleicons.org/github/c0caf5" height="22" align="top"/> GitHub &amp; <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="22" align="top"/> LeetCode Stats
 
 <table align="center">
   <tr>
@@ -119,7 +87,7 @@ class Rugved:
   </a>
 </p>
 
-### 🐍 Watch the snake eat my contributions
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -131,7 +99,7 @@ class Rugved:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🤝 Let's Build Something That Ships
+## Let's Build Something That Ships
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rugvedkumbhar31"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -140,9 +108,9 @@ class Rugved:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=9ECE6A&center=true&vCenter=true&width=760&lines=Open+to+Python+Backend+%26+AI%2FML+Engineering+roles;Product+startups+%E2%80%A2+MNCs+%E2%80%A2+Remote+opportunities;Let's+talk+agents%2C+RAG+and+production+AI+%F0%9F%A4%9D" alt="open to work"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=9ECE6A&center=true&vCenter=true&width=760&lines=Open+to+Python+Backend+%26+AI%2FML+Engineering+roles;Product+startups+%E2%80%A2+MNCs+%E2%80%A2+Remote+opportunities;Let's+talk+agents%2C+RAG+and+production+AI" alt="open to work"/>
 </p>
 
-<p align="center"><sub>Crafted with ☕ + 🧠 by <a href="https://github.com/rugvedk31">Rugved Kumbhar</a> · Last updated: October 2026</sub></p>
+<p align="center"><sub>Built by <a href="https://github.com/rugvedk31">Rugved Kumbhar</a> · Last updated: October 2026</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:bb9af7,100:1a1b26&height=130&section=footer" width="100%" alt="footer"/>
