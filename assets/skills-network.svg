@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif">
+<defs><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="bg" cx="50%" cy="40%" r="75%"><stop offset="0%" stop-color="#1f1d2e"/><stop offset="100%" stop-color="#13131c"/></radialGradient>
+<style>.n{animation:p 3s ease-in-out infinite}@keyframes p{0%,100%{stroke-opacity:.55}50%{stroke-opacity:1}}.h{animation:f 4s ease-in-out infinite}@keyframes f{0%,100%{opacity:.6}50%{opacity:1}}</style></defs>
+<rect x="2" y="2" width="896" height="326" rx="18" fill="url(#bg)" stroke="#2f334d" stroke-width="2"/>
+<path d="M215 82 L385 82" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 82 L385 144" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 82 L385 206" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 82 L385 268" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 144 L385 82" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 144 L385 144" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 144 L385 206" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 144 L385 268" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 206 L385 82" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 206 L385 144" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 206 L385 206" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 206 L385 268" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 268 L385 82" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 268 L385 144" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 268 L385 206" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M215 268 L385 268" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 82 L685 113" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 82 L685 175" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 82 L685 237" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 144 L685 113" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 144 L685 175" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 144 L685 237" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 206 L685 113" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 206 L685 175" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 206 L685 237" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 268 L685 113" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 268 L685 175" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<path d="M515 268 L685 237" stroke="#3b4261" stroke-width="1" opacity=".7"/>
+<circle r="3" fill="#7dcfff" filter="url(#g)" opacity="0"><animateMotion path="M215 82 L385 82" dur="1.6s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#9ece6a" filter="url(#g)" opacity="0"><animateMotion path="M215 82 L385 206" dur="1.9s" begin="0.74s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.9s" begin="0.74s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#f7768e" filter="url(#g)" opacity="0"><animateMotion path="M215 144 L385 82" dur="2.2s" begin="1.48s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.2s" begin="1.48s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#bb9af7" filter="url(#g)" opacity="0"><animateMotion path="M215 144 L385 206" dur="2.5s" begin="2.22s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.5s" begin="2.22s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#e0af68" filter="url(#g)" opacity="0"><animateMotion path="M215 206 L385 82" dur="1.7s" begin="2.96s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.7s" begin="2.96s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#7dcfff" filter="url(#g)" opacity="0"><animateMotion path="M215 206 L385 206" dur="2.0s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.0s" begin="0.70s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#9ece6a" filter="url(#g)" opacity="0"><animateMotion path="M215 268 L385 82" dur="2.3s" begin="1.44s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.3s" begin="1.44s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#f7768e" filter="url(#g)" opacity="0"><animateMotion path="M215 268 L385 206" dur="2.6s" begin="2.18s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.6s" begin="2.18s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#bb9af7" filter="url(#g)" opacity="0"><animateMotion path="M515 82 L685 113" dur="1.8s" begin="2.92s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.8s" begin="2.92s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#e0af68" filter="url(#g)" opacity="0"><animateMotion path="M515 82 L685 237" dur="2.1s" begin="0.66s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.1s" begin="0.66s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#7dcfff" filter="url(#g)" opacity="0"><animateMotion path="M515 144 L685 175" dur="2.4s" begin="1.40s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="1.40s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#9ece6a" filter="url(#g)" opacity="0"><animateMotion path="M515 206 L685 113" dur="1.6s" begin="2.14s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.6s" begin="2.14s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#f7768e" filter="url(#g)" opacity="0"><animateMotion path="M515 206 L685 237" dur="1.9s" begin="2.88s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="1.9s" begin="2.88s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#bb9af7" filter="url(#g)" opacity="0"><animateMotion path="M515 268 L685 175" dur="2.2s" begin="0.62s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.2s" begin="0.62s" repeatCount="indefinite"/></circle>
+<text class="h" x="150" y="34" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="3" fill="#7aa2f7">FOUNDATIONS</text>
+<rect class="n" style="animation-delay:0.0s" x="85.0" y="64.0" width="130" height="36" rx="18" fill="#16161e" stroke="#7aa2f7" stroke-width="1.6"/>
+<text x="150" y="87.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">Python</text>
+<rect class="n" style="animation-delay:0.4s" x="85.0" y="126.0" width="130" height="36" rx="18" fill="#16161e" stroke="#7aa2f7" stroke-width="1.6"/>
+<text x="150" y="149.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">FastAPI</text>
+<rect class="n" style="animation-delay:0.8s" x="85.0" y="188.0" width="130" height="36" rx="18" fill="#16161e" stroke="#7aa2f7" stroke-width="1.6"/>
+<text x="150" y="211.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">React</text>
+<rect class="n" style="animation-delay:1.2000000000000002s" x="85.0" y="250.0" width="130" height="36" rx="18" fill="#16161e" stroke="#7aa2f7" stroke-width="1.6"/>
+<text x="150" y="273.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">MongoDB</text>
+<text class="h" x="450" y="34" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="3" fill="#bb9af7">INTELLIGENCE</text>
+<rect class="n" style="animation-delay:0.0s" x="385.0" y="64.0" width="130" height="36" rx="18" fill="#16161e" stroke="#bb9af7" stroke-width="1.6"/>
+<text x="450" y="87.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">LangChain</text>
+<rect class="n" style="animation-delay:0.4s" x="385.0" y="126.0" width="130" height="36" rx="18" fill="#16161e" stroke="#bb9af7" stroke-width="1.6"/>
+<text x="450" y="149.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">LangGraph</text>
+<rect class="n" style="animation-delay:0.8s" x="385.0" y="188.0" width="130" height="36" rx="18" fill="#16161e" stroke="#bb9af7" stroke-width="1.6"/>
+<text x="450" y="211.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">Advanced RAG</text>
+<rect class="n" style="animation-delay:1.2000000000000002s" x="385.0" y="250.0" width="130" height="36" rx="18" fill="#16161e" stroke="#bb9af7" stroke-width="1.6"/>
+<text x="450" y="273.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">TensorFlow</text>
+<text class="h" x="750" y="34" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="3" fill="#9ece6a">PRODUCTION</text>
+<rect class="n" style="animation-delay:0.0s" x="685.0" y="95.0" width="130" height="36" rx="18" fill="#16161e" stroke="#9ece6a" stroke-width="1.6"/>
+<text x="750" y="118.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">AWS</text>
+<rect class="n" style="animation-delay:0.4s" x="685.0" y="157.0" width="130" height="36" rx="18" fill="#16161e" stroke="#9ece6a" stroke-width="1.6"/>
+<text x="750" y="180.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">Azure</text>
+<rect class="n" style="animation-delay:0.8s" x="685.0" y="219.0" width="130" height="36" rx="18" fill="#16161e" stroke="#9ece6a" stroke-width="1.6"/>
+<text x="750" y="242.0" text-anchor="middle" font-size="14" font-weight="600" fill="#c0caf5">Docker</text>
+<text x="450.0" y="316" text-anchor="middle" font-size="12" fill="#565f89">signal flow: raw code ➜ intelligent agents ➜ shipped to the cloud</text>
+</svg>

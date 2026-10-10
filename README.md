@@ -28,53 +28,41 @@
 
 ## 🧬 `class RugvedKumbhar(Agent):`
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="coding"/>
+<img align="right" width="34%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="coding"/>
 
 ```python
 from dataclasses import dataclass
 
 @dataclass(frozen=True)
 class Rugved:
-    role: str          = "AI/ML Intern @ Emerson"
-    education: str     = "Final-year CS @ DKTE Society's Textile & Engineering Institute"
-    location: str      = "Pune, India 📍"
-    building: tuple    = ("Agentic AI systems", "LangGraph workflows")
-    deep_diving: tuple = ("Advanced RAG", "LangChain", "LLMOps",
-                          "Cloud deploys on AWS / Azure")
-    leetcode: int      = 400  # and counting...
-    patent: str        = "RoomBuddy — PG Room Booking System"
-    ask_me_about: tuple = ("Python", "FastAPI", "LangGraph",
-                           "LangChain", "RAG", "Agentic Systems")
+    role: str     = "AI/ML Intern @ Emerson"
+    college: str  = ("DKTE Society's Textile"
+                     " & Engineering Institute")
+    year: str     = "Final-year CS 🎓"
+    city: str     = "Pune, India 📍"
+    builds: tuple = ("Agentic AI", "LangGraph")
+    learns: tuple = ("Advanced RAG", "LLMOps",
+                     "AWS", "Azure")
+    leetcode: str = "400+ solved 💻"
+    patent: str   = "RoomBuddy 🏠"
 
-    def philosophy(self) -> str:
-        return "The best AI is the kind that actually ships to production."
+    def motto(self) -> str:
+        return "Ship AI to production 🚀"
 ```
 
 <br clear="right"/>
 
-### 🧠 How my brain routes a problem (a real LangGraph, obviously)
-
-```mermaid
-flowchart LR
-    A([🎯 Problem]) --> B{🤔 Router Node}
-    B -- "needs knowledge" --> C[📚 RAG Retriever]
-    B -- "needs action" --> D[🛠️ Tool Calling]
-    B -- "needs code" --> E[🐍 Python / FastAPI]
-    C --> F[🧪 Evaluate & Reflect]
-    D --> F
-    E --> F
-    F -- "not good enough" --> B
-    F -- "✅ ship it" --> G([🚀 Production])
-
-    style A fill:#1a1b26,stroke:#7aa2f7,color:#c0caf5
-    style B fill:#1f1d2e,stroke:#bb9af7,color:#bb9af7
-    style F fill:#1f1d2e,stroke:#e0af68,color:#e0af68
-    style G fill:#0f1a12,stroke:#9ece6a,color:#9ece6a
-```
+<p align="center">
+  <img src="./assets/achievements.svg" width="100%" alt="achievements unlocked"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## ⚡ Arsenal
+
+<p align="center">
+  <img src="./assets/skills-network.svg" width="100%" alt="neural skill network"/>
+</p>
 
 <table align="center">
   <tr>
@@ -104,42 +92,11 @@ flowchart LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🚀 Featured Builds
-
-### 🌾 AgroAssist — AI-Powered Crop Health Monitoring
-> **Final Year Project** · a multi-layer agentic AI system for smart agriculture
+## 💭 Thought of the Day
 
 <p align="center">
-  <img src="./assets/agroassist-pipeline.svg" width="100%" alt="AgroAssist animated pipeline"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
-
-Farmer snaps a photo of a leaf → **DenseNet201** detects the disease → a **LangGraph** orchestrator routes the result to a **Groq-powered LLM** that turns a diagnosis into actionable, human-friendly advice → everything persists in **MongoDB Atlas + AWS S3**.
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DenseNet201-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-</p>
-
-### 🏠 RoomBuddy — PG Room Booking System
-> **📄 Patent Filed** · a smart accommodation finder for students & working professionals
-
-<details>
-  <summary><b>🎯 Click to peek at what I'm cooking right now</b></summary>
-  <br/>
-
-  | Status | What |
-  |:--:|:--|
-  | 🟢 | Building **agentic AI systems** with LangGraph @ Emerson |
-  | 🟡 | Leveling up on **Advanced RAG** (hybrid search, re-ranking, evals) |
-  | 🟡 | **LLMOps** — observability, tracing & deploying on AWS / Azure |
-  | 🔵 | Grinding LeetCode past **400+** |
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
